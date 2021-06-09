@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Laboratório 3.3: Laboratório Capstone do Dynamics 365 for Customer Service:'
+    title: 'Laboratório 3.3: Laboratório Capstone do Dynamics 365 for Customer Service'
     module: 'Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service'
 ---
 
@@ -292,11 +292,11 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 Agora que identificamos uma resolução para o problema da cliente, vamos nos preparar para resolver o caso. A primeira etapa para fechar o caso é encerrar quaisquer atividades abertas que foram associadas a ele. 
 
-1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente. Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 2. Na tela **Fechar tarefa**, verifique se o status está Concluído e selecione o botão **Fechar**. O status da tarefa deve dizer **Fechada**. 
 
-3. Passe o mouse sobre a **Chamada telefônica - Retornar chamada para Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+3. Passe o mouse sobre a **Chamada telefônica - Retornar chamada para Piper** que você criou anteriormente. Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 4. Na tela **Fechar chamada telefônica**, verifique se o **Estado** está **Concluído** e se o **Status** está **Feito**. Selecione o botão **Fechar**. Verifique se a atividade aparece como fechada na Linha do tempo. 
 

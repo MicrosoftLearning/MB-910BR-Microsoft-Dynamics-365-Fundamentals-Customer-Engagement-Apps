@@ -7,7 +7,7 @@ lab:
 Módulo 1: Aprender os conceitos básicos do Dynamics 365 Marketing
 ========================
 
-## Laboratório de prática 1.7 – Dynamics 365 Marketing Capstone Lab"
+## Laboratório de prática 1.7 – Dynamics 365 Marketing Capstone Lab
 
 ## Cenário do laboratório
 

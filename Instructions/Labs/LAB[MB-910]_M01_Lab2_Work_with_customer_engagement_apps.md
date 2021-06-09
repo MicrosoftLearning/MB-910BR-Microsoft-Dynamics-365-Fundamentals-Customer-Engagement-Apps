@@ -22,7 +22,7 @@ Durante este exercício, você verá que é muito fácil acessar os vários apli
 
 Neste exercício, você se familiarizará com como acessar os diferentes aplicativos de envolvimento com o cliente do Dynamics 365 usando a tela Página Inicial do Dynamics 365. 
 
-1. Em um navegador da Web, vá até [**https://home.dynamics.com**](https://home.dynamics.com/)** Todos os aplicativos aos quais você tem acesso serão exibidos. 
+1. Em um navegador da Web, vá até [**https://home.dynamics.com**](https://home.dynamics.com/). Todos os aplicativos aos quais você tem acesso serão exibidos. 
 
 2. Para reduzir o número de aplicativos exibidos, selecione o **Ícone de filtro (Filter Icon)** localizado próximo ao botão Obter mais aplicativos (Get more apps). 
 

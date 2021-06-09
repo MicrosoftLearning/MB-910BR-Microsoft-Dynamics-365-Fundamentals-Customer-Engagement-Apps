@@ -10,7 +10,7 @@ demo:
 
 O Dynamics 365 Sales Insights é um pacote de ferramentas de inteligência artificial que ajuda organizações a entender melhor seus clientes, gerenciar e executar atividades de vendas com proatividade e segmentar oportunidades de vendas com mais eficiência. 
 
-. Mantenha relacionamentos saudáveis usando o Sales Insights
+Mantenha relacionamentos saudáveis usando o Sales Insights
 
 - Gerencie a Integridade do Relacionamento de Conta
 

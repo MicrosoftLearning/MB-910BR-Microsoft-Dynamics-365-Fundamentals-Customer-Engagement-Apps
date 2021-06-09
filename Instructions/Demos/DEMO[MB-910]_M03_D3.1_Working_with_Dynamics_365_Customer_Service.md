@@ -4,7 +4,7 @@ demo:
     module: 'Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service'
 ---
 
-# Demonstração: Trabalhando com o Dynamics 365 for Customer Service
+# Demonstração: Trabalhar com o Dynamics 365 for Customer Service
 
 ## Instruções
 

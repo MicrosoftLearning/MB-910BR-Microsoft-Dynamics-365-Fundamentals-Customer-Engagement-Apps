@@ -86,7 +86,7 @@ Agora que criou com sucesso uma oportunidade de projeto baseada em um lead proje
 
 10. Na subgrade Concorrentes, selecione **Reticências Verticais**. No menu exibido, selecione **Adicionar Concorrente Existente**. 
 
-11. Pesquise e selecione **Segurança Coho**. (Se esta opção não existir, selecione **Novo Registro** e, em seguida, selecione **Concorrentes**. Caso contrário, passe para a etapa 15**.**)  
+11. Pesquise e selecione **Segurança Coho**. (Se esta opção não existir, selecione **Novo Registro** e, em seguida, selecione **Concorrentes**. Caso contrário, passe para a etapa 15.)  
 
 12. Na Criação Rápida: tela **Concorrente**, defina o campo **Nome** como **Segurança Coho – “Suas Iniciais”**.
 

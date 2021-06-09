@@ -312,4 +312,4 @@ Agora que criamos um pedido de vendas, vamos fechar o pedido e gerar a fatura. E
 
 4. Na **Barra de Comandos** do pedido, selecione o botão **Criar Fatura**. 
 
-5. Depois de abrir o registro de Fatura, selecione **Fatura Paga*.
+5. Depois de abrir o registro de Fatura, selecione **Fatura Paga**.
