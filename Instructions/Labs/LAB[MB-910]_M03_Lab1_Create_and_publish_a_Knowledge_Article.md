@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'Laboratório 3.1: Criar e publicar um artigo de conhecimento no Dynamics 365 for Customer Service'
-    module: 'Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service'
+    module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service
+Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
 ========================
 
 ## Laboratório prático 3.1 - Criar e publicar um artigo de conhecimento no Dynamics 365 for Customer Service
@@ -21,13 +21,15 @@ Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Servic
 
 3. Para ver facilmente quais artigos estão em diferentes estágios, selecione a seta suspensa ao lado de **Meus artigos ativos**. 
 
-4. Selecione **Artigos de rascunho**. Provavelmente você verá dois artigos no modo de rascunho.
+4. Selecione a exibição **Artigos de rascunho**. 
 
-5. Selecione **Artigos aprovados**. Você deve ver pelo menos um artigo aprovado. 
+5. Selecione **Artigos aprovados**. 
 
-6. Alterne de volta para os **Meus artigos ativos**
+6. Volte para **Meus artigos ativos**
 
-7. Na **Barra de comando**, selecione o botão **Novo**. 
+7. Na **Barra de comandos**, selecione o botão **Novo**. 
+
+8. Depois que o novo registro abrir, selecione a seta suspensa ao lado do campo **Razão do status (Status reason)** no cabeçalho do registro, na parte superior. Defina o **Idioma (Language)** para **English - United States**.
 
 8. Conclua o artigo como se segue:
 
@@ -37,7 +39,7 @@ Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Servic
 
 	- **Descrição:** Ajuda a resolver problemas quando um item chega danificado. 
 
-9. Digite o seguinte texto na caixa Designer de conteúdo.   
+9. Insira o seguinte texto na caixa Designer de Conteúdo.   
 ‎  
 ‎	Item chegou danificado
 
@@ -51,7 +53,7 @@ Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Servic
 
 	4. Selecione Danificado pelo motivo
 
-	5. Clique em Imprimir
+	5. Selecionar Imprimir
 
 Assim que recebermos o item devolvido/danificado, sua conta receberá o estorno da quantia.
 
@@ -77,13 +79,13 @@ Depois que o autor cria inicialmente o registro, ele geralmente passa por um pro
 
 18. Você será solicitado a confirmar a aprovação do artigo; selecione **OK**. 
 
-19. Clique no botão **Próximo estágio** para avançar ao estágio de **Publicação**. 
+19. Selecione o botão **Próximo Estágio** para passar para o estágio **Publicar**. 
 
-20. Na **Barra de comando** na parte superior do artigo, selecione a **elipse vertical** à esquerda da barra de comando. No menu exibido, selecione **Produto relacionado**. 
+20. Na **Barra de comando** na parte superior do artigo, selecione as **reticências verticais (vertical ellipsis)** à esquerda da barra de comando. No menu exibido, selecione **Produto relacionado**. 
 
 21. Na janela **Produto relacionado**, selecione **Office 365 for Enterprise (Amostra)**.
 
-22. Clique no botão **Associar**. 
+22. Selecione o botão **Associar**. 
 
 23. Em **Novo processo**, selecione o estágio de **Publicar**. 
 
@@ -91,11 +93,11 @@ Depois que o autor cria inicialmente o registro, ele geralmente passa por um pro
 
 25. Defina a **Data de validade** para **um ano a partir de hoje às 0:00**. 
 
-26. Clique no botão **Finalizar** para completar o processo. 
+26. Selecione o botão **Concluir** para completar o processo. 
 
-27. Na **Barra de comando** para o artigo, clique no botão **Publicar**. 
+27. Na **Barra de comando** para o artigo, selecione o botão **Publicar**. 
 
-28. Confirme se o seguinte está selecionado:
+28. Confirme os itens a seguir:
 
 	- **Publicar:** Agora
 

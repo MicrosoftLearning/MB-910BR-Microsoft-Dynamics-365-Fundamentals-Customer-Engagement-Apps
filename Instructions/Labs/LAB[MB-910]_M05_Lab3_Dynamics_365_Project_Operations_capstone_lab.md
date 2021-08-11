@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'Laboratório 5.3: laboratório avançado do Dynamics 365 Project Operations'
-    module: 'Módulo 5: aprender os princípios básicos do Dynamics 365 Project Operations'
+    module: 'Módulo 5: Aprender os princípios básicos do Dynamics 365 Project Operations'
 ---
 
-Módulo 5: aprender os princípios básicos do Dynamics 365 Project Operations
+Módulo 5: Aprender os princípios básicos do Dynamics 365 Project Operations
 ========================
 
 ## Laboratório de Prática 5.3 - Laboratório avançado do Dynamics 365 Project Operations
@@ -13,40 +13,40 @@ Módulo 5: aprender os princípios básicos do Dynamics 365 Project Operations
 
 A empresa ABC é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
 
-A empresa ABC usa aplicativos Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, de vendas até manutenção. 
+A empresa ABC usa os aplicativos do Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, das vendas aos serviços. 
 
-**Vendas e Marketing**
+**Vendas e marketing**
 
-A empresa ABC faz divulgação com seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são especificados com base na cidade e em outros fatores. Os materiais de marketing são enviados por email e são baseados na interação com o email direcionado correspondente. 
+A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e, com base na interação com o email, são orientados de maneira adequada. 
 
-Embora alguns de seus produtos menores sejam vendidos por varejistas, a maioria é vendida diretamente para os consumidores por meio da equipe interna de vendas.
+Embora alguns dos produtos menores sejam vendidos por meio de varejistas, a maioria dos produtos é vendida diretamente aos consumidores pela equipe interna de vendas.
 
-Internamente, eles focam em duas áreas principais: 
+Internamente, eles se concentram em duas áreas principais: 
 
-- **Clientes residenciais:** Geralmente, os clientes residenciais estão procurando seus componentes individuais ou estão procurando comprar uma solução totalmente caseira. Esses ciclos de vendas normalmente são mais curtos e são originados de mídias sociais, sites, referências ou contato direto de possíveis clientes. Como os clientes residenciais normalmente são mais focados em produtos específicos ou instalações menores, seus ciclos de vendas costumam durar alguns dias ou semanas. 
+- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como os clientes residenciais geralmente estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
 
-- **Clientes corporativos:** Os vendedores corporativos focam em clientes que precisam de soluções comerciais mais especializadas e personalizadas. As vendas corporativas abrangem vários locais com comunicação vinculada e frequentemente precisam de vários recursos para concluir o projeto. Esses ciclos de vendas costumam ser mais longos e têm muitas partes móveis. 
+- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas são geralmente mais longos e têm muito mais peças móveis. 
 
-É importante que todos os vendedores da empresa ABC tenham as ferramentas, recursos e orientação necessários independentemente da área de foco durante as vendas aos clientes. 
+É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, seja qual for a área de foco ao vender para os clientes. 
 
 **Instalação do sistema:**
 
-o processo de instalação dos equipamentos de segurança adquiridos varia com base no tipo de cliente. 
+O processo de instalação do equipamento de segurança adquirido varia de acordo com o tipo de cliente para quem foi vendido. 
 
-- **Clientes residenciais:** como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Depois que a venda é realizada, uma ordem de serviço é criada e um técnico qualificado é identificado e designado para fazer a instalação. 
+- **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a efetivação da venda, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
 
-- **Clientes corporativos:** as implantações corporativas podem levar meses e precisam de um gerente de projeto para supervisionar as operações diárias. Isso inclui a criação de planos de projetos, a definição das equipes de projetos e a programação de recursos. 
+- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
 
-**Manutenção e suporte:**
+**Serviço e suporte:**
 
-depois que os sistemas estiverem instalados, a empresa ABC fornece suporte após a venda. Se um cliente tiver algum problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se não for possível resolver o problema remotamente, o agente de suporte pode encaminhá-lo a uma ordem de serviço, que será programada e atendida por um técnico de campo qualificado. 
+Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
 ## Objetivos
 
 Os vendedores da empresa ABC focam mais a atenção em clientes cujas necessidades de segurança exigem soluções comerciais mais especializadas e personalizadas. Por esse motivo, suas vendas corporativas normalmente abrangem vários locais com comunicação vinculada e frequentemente precisam de vários recursos para concluir o projeto. Os ciclos de vendas corporativas das empresas ABC podem levar muitos meses e precisam de várias partes móveis para a execução. 
 
 Depois que um cliente corporativo compra um sistema, pode levar meses para implementar o projeto. Cada projeto é atribuído a um gerente, que supervisiona o planejamento do projeto e as operações diárias. Isso inclui a criação de planos de projetos, a definição das equipes de projetos e a programação de recursos. 
 
-Como vendedor corporativo, você é responsável pela venda de soluções de segurança personalizadas de alta qualidade aos clientes. Recentemente, você recebeu uma ligação de uma empresa chamada Consolidated Sample. Ela gostaria de ter uma solução de segurança totalmente integrada que abrangesse todos os seus locais. Você inserirá o lead da Consolidated Sample no sistema, incluí-lo por meio do ciclo de vendas do projeto e criar um projeto correspondente. 
+Como vendedor corporativo, você é responsável pela venda de soluções de segurança personalizadas de alta qualidade aos clientes. Recentemente, você recebeu uma ligação de uma empresa chamada Consolidated Sample. Ela gostaria de ter uma solução de segurança totalmente integrada que abrangesse todos os seus locais. Vamos inserir o cliente potencial da Consolidated Sample no sistema, incluí-lo por meio do ciclo de vendas do projeto e criar um projeto correspondente. 
 
 Após a conclusão do laboratório, você terá concluído o seguinte:
 
@@ -74,9 +74,9 @@ Neste exercício, você criará um projeto e definirá detalhes relacionados à 
 
 1. Com a Oportunidade de Projeto aberta, selecione a guia **Cotações**. 
 
-2. Na subgrade Cotações, clique no botão **Nova Cotação**.
+2. Na subgrade Cotações, selecione **Nova Cotação**.
 
-3. Depois que o registro da nova cotação for aberto, defina o campo **Lista de Preços de Produtos** na cotação para **Produtos e Serviços fornecidos**. 
+3. Depois que o registro da nova cotação for aberto, defina o campo **Lista de Preços de Produtos** na cotação para **Taxas de Fatura dos EUA**. 
 
 4. Selecione a guia **Linhas de Cotação**.
 
@@ -132,7 +132,6 @@ Neste exercício, você criará um projeto e definirá detalhes relacionados à 
 
 	- **Unidade:** Hora
 
-	- **Valor de Vendas:** 50.000
 
 15. Selecione o botão **Salvar e Fechar** para fechar o item de detalhes da linha. 
 
@@ -268,7 +267,7 @@ Como parte da definição da programação de um projeto, é possível especific
 
 1. Se necessário, abra o projeto **Implementação de Segurança Global Completa – Suas Iniciais** e selecione a guia **Programação**. 
 
-2. Localize a tarefa **Criar Layout do Sistema** adicionada anteriormente e clique no campo **Recursos**. 
+2. Localize a tarefa **Criar Layout do Sistema** adicionada anteriormente e selecione o campo **Recursos**. 
 
 3. No menu exibido, selecione **Criar**. 
 

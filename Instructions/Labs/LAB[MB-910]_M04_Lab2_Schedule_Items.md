@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'Laboratório 4.2: Agendar itens no Dynamics 365 Field Service'
     module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'
 ---
 
-Módulo 4: Aprenda o básico do Dynamics 365 Field Service
+Módulo 4: Aprender os princípios básicos do Dynamics 365 Field Service
 ========================
 
 ## Pratique o Laboratório 4.2 - Agendar itens no Dynamics 365 Field Service
@@ -12,60 +12,95 @@ Módulo 4: Aprenda o básico do Dynamics 365 Field Service
 ## Configuração do laboratório
 
   - **Tempo estimado**: 20 minutos
+
+  **Observação:** O painel de Requisitos de Reserva não pode ser aberto no Internet Explorer. Use o Microsoft Edge ou o Google Chrome para realizar este exercício.
   
 ## Instruções
 
 1. Se ainda não estiver aberto, abra o aplicativo **Dynamics 365 Field Service**. 
 
-2. Na navegação à esquerda, selecione **Ordens de Serviço**.
+2. À esquerda da navegação, vá até a área **Recursos** e depois selecione **Recursos**.
 
-3. Na **Barra de Comandos**, selecione o botão **Novo** para criar uma nova ordem de serviço.
+3. Na **Barra de Comando**, selecione o botão **Novo** para criar um Recurso Reservável.
 
-4. Preencha os detalhes da ordem de serviço da seguinte forma:
+	- **Tipo de Recurso:** Contato
 
-	- **Conta de serviço:** A. Datum Corporation (amostra)
+	- **Contato:** Eleanor Ribeiro
+
+4. Na **Barra de Comando**, selecione o botão **Salvar e Fechar**.
+
+5. Repita as etapas para criar mais três Recursos Reserváveis.
+
+	- **Tipo de Recurso:** Contato
+
+	- **Contato:** Abbie Gardiner
+
+
+	- **Tipo de Recurso:** Contato
+
+	- **Contato:** Aidan Knaggs
+	
+	- Selecione a guia Relacionados e adicione um novo Território Relacionado - WA
+
+
+	- **Tipo de Recurso:** Contato
+
+	- **Contato:** Cacilia Viera
+	
+	- Selecione a guia Relacionados e adicione um novo Território Relacionado - WA
+
+
+6. Na **Barra de comando**, selecione o botão **Salvar e Fechar**.
+
+27 À esquerda da navegação, selecione a área **Serviço** e depois **Ordens de Serviço**.
+
+8. Na **Barra de Comandos**, selecione o botão **Novo** para criar uma nova Ordem de Serviço.
+
+9. Preencha os detalhes da ordem de serviço da seguinte forma:
+
+	- **Conta de Serviço:** Adatum Corporation
 
 	- **Tipo de ordem de serviço:** Serviço
 
-	- **Lista de preços:** Lista de preços padrão
+	- **Lista de preços:** CRM Service USE (sample)
 
 	- **Tributável:** Não
 
-	- **Tipo de incidente principal:** Superaquecimento da unidade
+10. Selecione **Salvar** para salvar as alterações.\
 
-5. Selecione **Salvar** para salvar as alterações.
+	- **Tipo de incidente principal:** Superaquecimento da unidade. (criar novo)
 
-6. Na **Barra de Comando** da **Ordem de Serviço**, selecione o botão **Reservar**. Isso abrirá o **Assistente de Agendamento.** 
+11. Na **Barra de Comando** da **Ordem de Serviço**, selecione o botão **Reservar**. Isso abrirá o **Assistente de Agendamento.** 
 
-7. Opções para agendar o item serão apresentadas a você. Selecione o registro **Ryan Brim**.
+12. Opções para agendar o item serão apresentadas a você. Selecione o registro **Abbie Gardiner**.
 
-8. Na janela **Criar Reserva de Recurso**, defina a **Hora de Início** no início da próxima hora.
+13. Na janela **Criar Reserva de Recurso**, defina a **Hora de Início** no início da próxima hora.
 
-9. Defina a **Hora de Término** para ser **2,5 horas** depois disso. 
+14. Defina a **Hora de Término** para ser **2,5 horas** depois disso. 
 
-10. Selecione o botão **Reservar e Sair** para reservar o item e sair da janela de agendamento. 
+15. Selecione o botão **Reservar e Sair** para reservar o item e sair da janela de agendamento. 
 
-11. Uma vez de volta na ordem de serviço, clique no botão **Salvar e Fechar** na barra de comandos. 
+16. De volta à Ordem de Serviço, selecione o botão **Salvar e Fechar** na barra de comandos. 
 
-12. Usando a navegação esquerda, selecione **Quadro de Horários**.
+17. Usando a navegação à esquerda, selecione **Ordens de Serviço**. Selecione **Ordens de serviço não agendadas**.
 
-13. Na parte inferior da tela no painel de requisitos, selecione **Ordens de Serviço Não Agendadas**.
+18. Na parte inferior da tela, encontramos o painel de Requisitos de Reserva. Use a alça na parte central superior do painel para abri-lo. Selecione a guia **Ordens de serviço não agendadas**.
 
-14. Selecione a ordem de serviço **Adventure Works** que você criou anteriormente usando o número da ordem de serviço que anotou. Nas opções que aparecem, selecione **Localizar disponibilidade**. 
+19. Selecione a ordem de serviço **Adventure Works** que você criou anteriormente usando o número da ordem de serviço que anotou. Nas opções que aparecem, selecione **Localizar disponibilidade**. 
 
-15. Isso abrirá o **Assistente de Agendamento.** 
+20. Isso abrirá o **Assistente de Agendamento.** 
 
-16. Opções para agendar o item serão apresentadas a você. Selecione o registro Bob Kozak.
+21. Opções para agendar o item serão apresentadas a você. Selecione o registro Aidan Knaggs.
 
-17. Na janela **Criar Reserva de Recurso**, defina a **Hora de Início** no início da próxima hora.
+22. Na janela **Criar Reserva de Recurso**, defina a **Hora de Início** no início da próxima hora.
 
-18. Defina a **Hora de Término** para ser **2,5 horas** depois disso. 
+23. Defina a **Hora de Término** para ser **2,5 horas** depois disso. 
 
-19. Selecione o botão **Reservar e Sair** para reservar o item e sair da janela de agendamento. 
+24. Selecione o botão **Reservar e Sair** para reservar o item e sair da janela de agendamento. 
 
-20. Às vezes, talvez você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens. Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
+25. Pode ser que você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
 
-21. Clique na caixa de pesquisa de recursos no quadro de horários (localizado logo acima da coluna do nome do recurso), digite Ryan e localize a ordem de serviço que está agendada para Ryan ainda hoje. 
+26. Selecione a caixa de pesquisa de recursos no quadro de horários (localizado logo acima da coluna do nome do recurso), insira Abbie e encontre a ordem de serviço que está agendada para Abbie ainda hoje. 
 
-22. Clique com o botão direito do mouse na ordem de serviço e, no menu que aparece, selecione **Recurso Substituto**, selecione o botão **Localizar Substituição** **.**
+27. Selecione a ordem de serviço com o botão direito do mouse e, no menu exibido, selecione **Recurso Substituto** e depois **Localizar Substituição****.**
 

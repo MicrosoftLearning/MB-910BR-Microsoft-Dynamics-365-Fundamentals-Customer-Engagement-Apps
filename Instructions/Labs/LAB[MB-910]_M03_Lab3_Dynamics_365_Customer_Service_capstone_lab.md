@@ -1,51 +1,51 @@
----
+﻿---
 lab:
     title: 'Laboratório 3.3: Laboratório Capstone do Dynamics 365 for Customer Service'
-    module: 'Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service'
+    module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service
+Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
 ========================
 
 ## Laboratório de prática 3.3 - Laboratório Capstone do Dynamics 365 for Customer Service
 
 ## Cenário do laboratório
 
-A empresa ABC se especializa em fabricar, vender, instalar e dar manutenção em equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e mais. 
+A empresa ABC é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
 
-A empresa ABC usa os aplicativos Dynamics 365 para envolver-se com todos seus clientes por todas as diferentes áreas de sua organização, desde vendas até serviço. 
+A empresa ABC usa os aplicativos do Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, das vendas aos serviços. 
 
-**Vendas e Marketing**
+**Vendas e marketing**
 
-A empresa ABC anuncia para os clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são direcionados com base nas cidades em que estão e outros fatores. O material de marketing é enviado por e-mail e, com base na interação deles com o e-mail, direcionado respectivamente. 
+A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e, com base na interação com o email, são orientados de maneira adequada. 
 
-Enquanto alguns de seus produtos menores são vendidos por varejistas, a maioria é vendida diretamente aos consumidores pela equipe de vendas interna.
+Embora alguns dos produtos menores sejam vendidos por meio de varejistas, a maioria dos produtos é vendida diretamente aos consumidores pela equipe interna de vendas.
 
-Internamente, eles se concentram em duas principais áreas: 
+Internamente, eles se concentram em duas áreas principais: 
 
-- **Clientes residenciais:** Esses clientes procuram tipicamente por componentes individuais ou comprar uma solução doméstica completa. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, websites, indicações ou contato direto do cliente em potencial. Como os clientes residenciais estão normalmente mais focados em produtos específicos ou instalações menores, os ciclos de vendas para eles normalmente duram alguns dias ou semanas. 
+- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como os clientes residenciais geralmente estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
 
-- **Clientes empresariais:** Os vendedores empresariais se concentram em clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas empresariais normalmente abrangem várias localizações com comunicação vinculada, e frequentemente exigem múltiplos recursos para concluir o projeto. Normalmente, esses ciclos de vendas são mais longos e têm muitas mais partes móveis. 
+- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas são geralmente mais longos e têm muito mais peças móveis. 
 
-É importante que todos os vendedores da empresa ABC tenham as ferramentas, recursos e orientação necessários, independentemente de sua área de foco enquanto vendem a seus clientes. 
+É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, seja qual for a área de foco ao vender para os clientes. 
 
 **Instalação do sistema:**
 
-O processo de instalação para equipamento de segurança adquirido varia com base no tipo de cliente para quem foi vendido. 
+O processo de instalação do equipamento de segurança adquirido varia de acordo com o tipo de cliente para quem foi vendido. 
 
-- **Clientes residenciais:** Como instalações residenciais normalmente precisam de menos de um dia, são feitas por funcionários internos. Depois que a venda é feita, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
+- **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a efetivação da venda, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
 
-- **Clientes empresariais:** Implantações empresariais podem levar meses e exigem um gerente de projetos para supervisionar as operações diárias. Isso inclui criar planos de projeto, definir equipes de projeto e agendar recursos. 
+- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
 
 **Serviço e suporte:**
 
-Assim que os sistemas são instalados, a empresa ABC oferece suporte após a venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver seu problema. Se seu problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
+Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
 
 ## Objetivos
 
 Muitas vezes, os clientes podem encontrar problemas com seus equipamentos. Quando forem encontrados problemas, eles são informados ao help desk da empresa ABC. Os problemas podem ser informados de várias maneiras. Em alguns casos, o equipamento pode informar problemas de modo proativo. À medida que os problemas são informados, os agentes tentam resolvê-los remotamente. Se isso não funcionar, um técnico de campo será enviado para resolver o problema. Você tem corrigido muitos sensores que pararam de funcionar recentemente. Você percebeu que isso se deve a um bug de software. Você deseja criar um artigo de conhecimento que outros agentes possam usar como referência quando encontrarem o mesmo problema. 
 
-Como agente de help desk, você é responsável por trabalhar em problemas informados por clientes. Você recentemente atendeu um telefonema de Piper Smith. Piper está informando que um dos sensores em seu sistema não está funcionando. Você precisa registrar a chamada dela e tentar localizar uma resolução para seu problema. 
+Como agente de help desk, você é responsável por trabalhar em problemas informados por clientes. Você recentemente atendeu um telefonema de Piper Smith. Piper está informando que um dos sensores em seu sistema não está funcionando. Você precisa registrar a chamada e tentar localizar uma resolução para o problema. 
 
 Após concluir o laboratório, você terá:
 
@@ -73,13 +73,13 @@ Após concluir o laboratório, você terá:
 
 3. Para ver facilmente quais artigos estão em diferentes estágios, selecione a seta suspensa ao lado de **Meus artigos ativos**. 
 
-4. Selecione **Artigos de rascunho**. Provavelmente você verá dois artigos no modo de rascunho.
+4. Selecione **Artigos de rascunho**. 
 
-5. Use o seletor de exibição para selecionar **Artigos aprovados**. Você deve ver pelo menos um artigo aprovado. 
+5. Use o seletor de exibição para selecionar **Artigos aprovados**.  
 
 6. Use o seletor de exibição para alternar de volta para **Meus artigos ativos**
 
-7. Na **Barra de comando**, selecione o botão **Novo**. 
+7. Na **Barra de comandos**, selecione o botão **Novo**. Depois que o novo registro abrir, selecione a seta suspensa ao lado do campo **Razão do status (Status reason)** no cabeçalho do registro, na parte superior. Defina o **Idioma (Language)** para **English - United States**.
 
 8. Conclua o artigo como se segue:
 
@@ -89,7 +89,7 @@ Após concluir o laboratório, você terá:
 
 	- **Descrição:** Ajuda a trabalhar em cenários onde um sensor não está funcionando. 
 
-9. Digite o seguinte texto na caixa **Designer de conteúdo**.   
+9. Insira o seguinte texto na caixa **Designer de Conteúdo**.   
 
 	O sensor não está funcionando atualmente
 
@@ -133,7 +133,7 @@ Na maioria das organizações, depois que o autor do artigo cria o registro, ele
 
 3. Em **Novo processo**, selecione o estágio de **Revisão**. Defina o campo **Revisão** como **Rejeitado**.
 
-4. Na tela de Artigo de conhecimento rejeitado, digite o texto **Essas etapas não funcionam quando tento replicá-las.**
+4. Na tela de Artigo de conhecimento rejeitado, insira o texto **Essas etapas não funcionam quando tento replicá-las.**
 
 5. Selecione o botão **Rejeitar**
 
@@ -153,7 +153,7 @@ Na maioria das organizações, depois que o autor do artigo cria o registro, ele
 
 13. Pressione a tecla **Enter**. 
 
-14. Digite o texto e pressione o botão **Confirmar**. 
+14. Insira o texto “Pressionar botão de confirmar.” 
 
 15. Na **Barra de comando**, selecione o botão **Salvar e Fechar**.
 
@@ -172,17 +172,17 @@ Na maioria das organizações, depois que o autor do artigo cria o registro, ele
 
 Agora que o artigo foi aprovado, vamos publicá-lo para que ele fique disponível para pessoas trabalhando em casos. 
 
-1. Clique no botão **Próximo estágio** para avançar ao estágio de **Publicação**. 
+1. Selecione o botão **Próximo Estágio** para passar para o estágio **Publicar**. 
 
 2. Marque **Definir associações de produto** como **Concluído**. 
 
 3. Defina a **Data de validade** para **um ano a partir de hoje às 0:00**. 
 
-4. Clique no botão **Finalizar** para completar o processo. 
+4. Selecione o botão **Concluir** para completar o processo. 
 
-5. Na **Barra de comando** para o artigo, clique no botão **Publicar**. 
+5. Na **Barra de comando** para o artigo, selecione o botão **Publicar**. 
 
-6. Confirme se o seguinte está selecionado:
+6. Confirme os itens a seguir:
 
 	- **Publicar:** Agora
 
@@ -194,7 +194,7 @@ Agora que o artigo foi aprovado, vamos publicá-lo para que ele fique disponíve
 
 	- **Status da validade:** Expirado
 
-7. Clique no botão **Publicar** para publicar o artigo.
+7. Selecione o botão **Publicar** para publicar o artigo.
 
 
 ## Exercício 2: Gerenciar um caso de suporte ao longo do ciclo de vida
@@ -208,17 +208,8 @@ Agora que o artigo foi aprovado, vamos publicá-lo para que ele fique disponíve
 
 3. Na **Barra de comando**, selecione o botão **Exibir filtros de visual**.
 
-4. No gráfico **Mix de casos (por origem)**, selecione **Telefone**. Observe que o Filtro de casos exibe apenas os Casos telefônicos.  
 
-5. Selecione **Apagar tudo** para apagar o filtro.
-
-6. No gráfico **Casos por prioridade**, selecione **Alta**. Observe que a lista de casos será ainda mais filtrada para incluir casos de Alta prioridade.  
-
-7. Clique no primeiro caso que aparece na lista para abri-lo. Depois que o caso abrir, clique no botão **Salvar e Fechar** na barra de comando para fechar o caso e retornar ao painel de **Nível 1**. 
-
-8. Remova qualquer filtro aplicado selecionando **Apagar tudo**. 
-
-9. Painéis de controle adicionais oferecem mais detalhes sobre a carga de casos atual. Você pode trabalhar com outros painéis de controle usando o seletor de painéis. Troque o painel de **Painel de nível 1** para **Painel de nível 2**. 
+4. Painéis de controle adicionais oferecem mais detalhes sobre a carga de casos atual. Você pode trabalhar com outros painéis de controle usando o seletor de painéis. Troque o painel de **Painel de nível 1** para **Painel de nível 2**. 
 
  
 
@@ -230,7 +221,7 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 11. Na **Barra de comando**, selecione o botão **Novo** para criar um registro de caso.
 
-12. Conclua o novo registro de caso como se segue:
+12. Preencha o novo registro de caso como se segue:
 
 	- **Título do caso:** O sensor não está funcionando - Suas iniciais
 
@@ -244,7 +235,7 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 14. Usando a **Linha do tempo do registro**, selecione o **Ícone de sinal de mais** para criar uma atividade. 
 
-15. No menu exibido, selecione **Chamada telefônica**.
+15. No menu exibido, selecione **Telefonema**.
 
 16. No formulário **Criação rápida: Chamada telefônica**, complete a atividade como se segue:
 
@@ -256,13 +247,13 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 	- **Duração:** 15 minutos.
 
-17. Clique no botão **Salvar e Fechar**. 
+17. Selecione o botão **Salvar e Fechar**. 
 
 18. Em **Telefone para Processo do caso**, selecione o estágio **Identificar**.
 
-19. Clique no botão **Próximo estágio** para avançar ao estágio **Pesquisa**. 
+19. Selecione o botão **Próximo Estágio** para passar para o estágio **Pesquisar**. 
 
-20. Clique no **X** na janela flutuante do estágio **Pesquisa** para remover a janela e poder continuar trabalhando. 
+20. Selecione o **X** na janela flutuante do estágio **Pesquisar** para fechar a janela e poder continuar trabalhando. 
 
 21. Usando a **Linha do tempo do registro**, selecione o **Ícone de sinal de mais** para criar uma atividade. 
 
@@ -276,7 +267,7 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 	- **Duração:** 30 minutos.
 
-24. Clique no botão **Salvar e Fechar**. 
+24. Selecione o botão **Salvar e Fechar**. 
 
 25. No lado direito da tela de caso, localize e selecione o ícone de livro **Conhecimento**. (Ele estará diretamente abaixo do ícone de chave inglesa).
 
@@ -292,11 +283,11 @@ Agora que você está familiarizado com algumas das diferentes visualizações e
 
 Agora que identificamos uma resolução para o problema da cliente, vamos nos preparar para resolver o caso. A primeira etapa para fechar o caso é encerrar quaisquer atividades abertas que foram associadas a ele. 
 
-1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente. Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+1. Na **Linha do tempo** do registro, passe o mouse sobre a **tarefa Pesquisar o problema da Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 2. Na tela **Fechar tarefa**, verifique se o status está Concluído e selecione o botão **Fechar**. O status da tarefa deve dizer **Fechada**. 
 
-3. Passe o mouse sobre a **Chamada telefônica - Retornar chamada para Piper** que você criou anteriormente. Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
+3. Passe o mouse sobre a **Chamada telefônica - Retornar chamada para Piper** que você criou anteriormente**.** Selecione a marca cheia **Ícone de marca de verificação** para concluir a atividade. 
 
 4. Na tela **Fechar chamada telefônica**, verifique se o **Estado** está **Concluído** e se o **Status** está **Feito**. Selecione o botão **Fechar**. Verifique se a atividade aparece como fechada na Linha do tempo. 
 

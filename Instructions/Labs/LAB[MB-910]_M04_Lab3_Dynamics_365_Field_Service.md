@@ -1,33 +1,33 @@
----
+﻿---
 lab:
     title: 'Laboratório 4.3: Laboratório Capstone do Dynamics 365 Field Service'
     module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'
 ---
 
-Módulo 4: Aprenda o básico do Dynamics 365 Field Service
+Módulo 4: Aprender os princípios básicos do Dynamics 365 Field Service
 ========================
 
 ## Pratique o Laboratório 4.3 - Laboratório Capstone do Dynamics 365 Field Service
 
 ## Cenário do Laboratório
 
-A empresa ABC é especializada na fabricação, comercialização, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
+A empresa ABC é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
 
-A empresa ABC usa aplicativos do Dynamics 365 para interagir com todos os seus clientes em diferentes áreas da sua organização, desde vendas até serviço. 
+A empresa ABC usa os aplicativos do Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, das vendas aos serviços. 
 
-**Vendas e Marketing**
+**Vendas e marketing**
 
-A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são direcionados com base em sua cidade e em outros fatores. Os materiais de marketing são enviados por email e, com base em sua interação com o email, são orientados de acordo. 
+A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e, com base na interação com o email, são orientados de maneira adequada. 
 
-Embora alguns dos seus produtos menores sejam vendidos por varejistas, a maioria dos produtos é vendida diretamente aos consumidores por sua equipe interna de vendas.
+Embora alguns dos produtos menores sejam vendidos por meio de varejistas, a maioria dos produtos é vendida diretamente aos consumidores pela equipe interna de vendas.
 
 Internamente, eles se concentram em duas áreas principais: 
 
-- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para toda a casa. No geral, esses ciclos de vendas são mais curtos e se originam de mídias sociais, sites, referências ou contato direto do cliente em potencial. Como, de modo geral, os clientes residenciais estão mais focados em produtos específicos ou instalações menores, seus ciclos de vendas costumam durar alguns dias ou semanas. 
+- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como os clientes residenciais geralmente estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
 
-- **Clientes corporativos:** Os vendedores corporativos se concentram nos clientes que precisam de soluções de negócios mais especializadas e personalizadas. As vendas corporativas geralmente se estendem por vários locais com comunicação vinculada e, no geral, requerem vários recursos para concluir o projeto. Normalmente, esses ciclos de vendas são mais longos e têm muito mais peças móveis. 
+- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas são geralmente mais longos e têm muito mais peças móveis. 
 
-É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, independentemente de sua área de foco ao vender para seus clientes. 
+É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, seja qual for a área de foco ao vender para os clientes. 
 
 **Instalação do sistema:**
 
@@ -35,11 +35,11 @@ O processo de instalação do equipamento de segurança adquirido varia de acord
 
 - **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a efetivação da venda, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
 
-- **Clientes corporativos:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, definição de equipes de projeto e agendamento de recursos. 
+- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
 
 **Serviço e suporte:**
 
-Uma vez os sistemas instalados, a empresa ABC fornece suporte após a venda. Se um cliente tiver algum problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
+Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado. 
 
 ## Objetivos
 
@@ -73,19 +73,21 @@ Recentemente, um cliente corporativo Active Transport, Inc. contatou o suporte s
 
 2. Usando a navegação no lado esquerdo da tela, selecione **Casos**. 
 
-3. Na **Barra de Comandos**, selecione o botão **Novo** para criar um novo registro de caso.
+3. Na **Barra de comando**, selecione o botão **Novo** para criar um registro de caso.
 
-4. Preencha o novo registro do caso da seguinte forma:
+4. Preencha o novo registro de caso como se segue:
 
 	- **Título do caso:** Câmera desligada
 
-	- **Cliente:** Active Transport Inc.
+	- **Cliente:** Best For You Organics Company
 
 	- **Origem:** Telefone
 
+	Salve o registro.
+
 5. Selecione a guia **Serviço de Campo**
 
-6. Defina o campo **Tipo de Incidente** como **Câmera desligada**.
+6. Defina o campo **Tipo de Incidente** como **Câmera desligada**. (criar novo)
 
 7. Na **Barra de comando**, selecione o botão **Salvar e Fechar** para salvar e fechar o registro do caso. 
 
@@ -99,17 +101,21 @@ Voltaremos depois ao seu registro de caso criado. A seguir, vamos examinar como 
 
 1. Na navegação à esquerda, selecione **Ordens de Serviço**.
 
-2. Na **Barra de Comandos**, selecione o botão **Novo** para criar uma nova ordem de serviço.
+2. Na **Barra de Comandos**, selecione o botão **Novo** para criar uma nova Ordem de Serviço.
 
 3. Preencha os detalhes da ordem de serviço da seguinte forma:
 
-	- **Conta de serviço:** Freios e engrenagens 
+	- **Conta de Serviço:** Margie's Travel
 
-	- **Lista de preços:** Lista de preços padrão
+	- **Lista de preços:** Office 365 US (sample)
 
-	- **Tipo de incidente principal:** Ventilador não funcionando
+	- **Tipo de ordem de serviço:** Serviço
 
 	- **Tributável:** Não
+
+	Salve o registro e atribua o Tipo de Incidente Principal
+
+	- **Tipo de incidente principal:** Fan Out (criar novo)
 
 4. Anote o número da ordem de serviço para garantir que esteja trabalhando com a ordem de serviço correta mais tarde. 
 
@@ -139,11 +145,7 @@ Outra forma de gerar ordens de serviço é escalar registros de casos. Neste exe
 
 3. Na **Barra de Comando**, selecione o botão **Converter em Ordem de Serviço**. 
 
-4. Quando a ordem de serviço estiver criada, clique no botão **OK** na tela pop-up para exibir os detalhes da ordem de serviço. 
-
-5. Selecione a guia **Serviços** e verifique se os serviços **Inspecionar integridade do sistema** e **Inspecionar alcance de movimento** foram adicionados à ordem de serviço. **OBSERVAÇÃO:** Caso não os veja inicialmente, pressione F5 para atualizar a tela. 
-
-6. Selecione a guia **Tarefa de Serviço** e verifique se as 4 tarefas foram adicionadas.
+4. Quando a ordem de serviço estiver criada, selecione o botão **OK** na tela pop-up para exibir os detalhes da Ordem de Serviço. 
 
  
 
@@ -157,21 +159,15 @@ Ambas as ordens de serviço recém-criadas estão prontas para serem agendadas.
 
 2. No canto superior direito da tela, defina a experiência **Novo Quadro de Horários** como **ON** (Ativado). 
 
-3. Usando o campo de pesquisa **Pesquisar recursos**, insira o nome da sua conta de usuário. (Seu registro de recurso deve ser exibido.)
+3. Usando o campo **Pesquisar recursos**, insira Aidan Knaggs. 
 
 4. Na parte inferior da tela no painel de requisitos, selecione **Ordens de Serviço Não Agendadas**.  (Se o painel de requisitos não for exibido, selecione a seta na parte inferior da tela para expandi-lo.) 
 
-5. Localize a ordem de serviço **Active Transport** que você criou a partir do registro de caso. (Lembre-se do número da ordem de serviço). 
+5. Localize a Ordem de Serviço **Munson’s Pickles** que você criou a partir do registro de caso. (Lembre-se do número da ordem de serviço). 
 
-6. Arraste o registro **Active Transport** e coloque-o em um intervalo aberto para o seu registro de usuário. 
+6. Arraste o registro **Munson’s Pickles** até um intervalo em aberto para o registro de contato do Aiden. 
 
-7. Às vezes, talvez você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens. Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
-
-8. Clique na caixa de pesquisa de recursos no quadro de horários (localizado logo acima da coluna do nome do recurso), digite **Brady** e localize a ordem de serviço que está agendada para **Brady Hannon** ainda hoje. 
-
-9. **Clique com o botão direito** no item agendado. No menu exibido, selecione **Reatribuir**. Clique em usando a caixa de pesquisa e selecione seu registro de recurso.
-
- 
+7. Pode ser que você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens. Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
 
  
 
@@ -185,10 +181,10 @@ Ambas as ordens de serviço recém-criadas estão prontas para serem agendadas.
 
 4. Localize a ordem de serviço **Active Transport** que você criou a partir do registro de caso. (Lembre-se do número da ordem de serviço). 
 
-5. Arraste o registro **Active Transport** e coloque-o em um intervalo aberto para o seu registro de usuário. 
+5. Arraste o registro **Active Transport** e coloque-o em um intervalo aberto para o seu registro de usuário. O texto ficará verde caso o intervalo corresponda à preferência do cliente.
 
-6. Às vezes, talvez você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens. Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
+6. Pode ser que você precise reagendar uma ordem de serviço com base em conflitos técnicos ou outros itens. Isso pode ser feito facilmente pelos despachantes que utilizam o quadro de horários. 
 
-7. Clique na caixa de pesquisa de recursos no quadro de horários (localizado logo acima da coluna do nome do recurso), digite **Brady** e localize a ordem de serviço que está agendada para **Brady Hannon** ainda hoje. 
+7. Clique na caixa de pesquisa de recursos no quadro de horários (localizado logo acima da coluna do nome do recurso), digite **Brady** e encontre a ordem de serviço que está agendada para **Brady Hannon** ainda hoje. 
 
-8. **Clique com o botão direito** no item agendado. No menu exibido, selecione **Recurso Substituto**. Clique na caixa Selecionar/Pesquisar, selecione seu registro de recurso e selecione **Reatribuir**
+8. **Clique com o botão direito** no item agendado. No menu exibido, selecione **Recurso Substituto**. Selecione a caixa Selecionar/Pesquisar, depois selecione o registro de recurso e **Reatribuir**

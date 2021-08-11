@@ -1,10 +1,10 @@
----
+﻿---
 lab:
     title: 'Laboratório 3.2: Criar e gerenciar casos no Dynamics 365 for Customer Service'
-    module: 'Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service'
+    module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'
 ---
 
-Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Service
+Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service
 ========================
 
 ## Laboratório prático 3.2 - Criar e gerenciar casos no Dynamics 365 for Customer Service
@@ -19,35 +19,35 @@ Módulo 3: Aprenda os conceitos fundamentais do Dynamics 365 for Customer Servic
 
 2. Usando a navegação no lado esquerdo da tela, selecione **Casos**. 
 
-3. Na **Barra de comando**, selecione o botão **Novo** para criar um registro de caso.
+3. Na **Barra de Comando**, selecione o botão **Novo Caso** para criar um novo registro de caso.
 
-4. Conclua o novo registro de caso como se segue:
+4. Preencha o novo registro de caso como se segue:
 
 	- **Título do caso:** Item chegou danificado - Suas iniciais
 
-	- **Cliente:** Alpine Ski House (Amostra)
+	- **Cliente:** Alpine Ski House
 
 	- **Origem:** Telefone
 
 5. Selecione o botão **Salvar** para salvar o registro e deixe-o aberto. 
 
-6. Em **Telefone para Processo do caso**, selecione o estágio **Identificar** e defina o campo **Encontrar contato** para **Dwayne Elijah**. 
+6. Em **Telefone para Processo do Caso**, selecione o estágio **Identificar** e defina o campo **Encontrar contato** para **Alfonso Albritton**. 
 
-7. Clique no **X** na janela flutuante do estágio **Identificar** para remover a janela e poder continuar trabalhando. 
+7. Selecione o **X** na janela flutuante do estágio **Identificar** para fechar a janela e poder continuar trabalhando. 
 
 8. Usando a **Linha do tempo do registro**, selecione o **Ícone de sinal de mais** para criar uma atividade. 
 
-9. No menu exibido, selecione **Chamada telefônica**.
+9. No menu exibido, selecione **Telefonema**.
 
 10. Defina o campo **Assunto** como **Retornar chamada para Patrick - suas iniciais** e deixe o restante dos campos como estão. 
 
-11. Clique no botão **Salvar e Fechar**. 
+11. Selecione o botão **Salvar e Fechar (Save and Close)**. 
 
 12. Em **Telefone para Processo do caso**, selecione o estágio **Identificar**.
 
-13. Clique no botão **Próximo estágio** para avançar ao estágio **Pesquisa**. 
+13. Selecione o botão **Próximo Estágio** para passar para o estágio **Pesquisar**. 
 
-14. Clique no **X** na janela flutuante do estágio **Pesquisa** para remover a janela e poder continuar trabalhando. 
+14. Selecione o **X** na janela flutuante do estágio **Pesquisar** para fechar a janela e poder continuar trabalhando. 
 
 15. No lado direito da tela de caso, localize e selecione o ícone de livro **Conhecimento**. (Ele estará diretamente abaixo do ícone de chave inglesa).
 
