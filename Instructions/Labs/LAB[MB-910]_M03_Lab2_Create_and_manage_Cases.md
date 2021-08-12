@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 3.2: Criar e gerenciar casos no Dynamics 365 for Customer Service'
     module: 'Módulo 3: Aprender os princípios básicos do Dynamics 365 Customer Service'

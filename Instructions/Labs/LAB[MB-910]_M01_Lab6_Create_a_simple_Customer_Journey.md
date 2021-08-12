@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 1.6: Criar uma jornada do cliente simples'
     module: 'Módulo 1: Aprender os princípios básicos do Dynamics 365 Marketing'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 2.1: Crie e gerencie um cliente potencial no Dynamics 365 for Sales'
     module: 'Módulo 2: Aprenda os conceitos básicos do Dynamics 365 for Sales'

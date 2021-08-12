@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 4.3: Laboratório Capstone do Dynamics 365 Field Service'
     module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'

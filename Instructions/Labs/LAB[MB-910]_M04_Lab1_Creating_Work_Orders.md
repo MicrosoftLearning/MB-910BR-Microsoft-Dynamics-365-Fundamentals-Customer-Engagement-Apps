@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 4.1: Criando ordens de serviço no Dynamics 365 Field Service'
     module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'

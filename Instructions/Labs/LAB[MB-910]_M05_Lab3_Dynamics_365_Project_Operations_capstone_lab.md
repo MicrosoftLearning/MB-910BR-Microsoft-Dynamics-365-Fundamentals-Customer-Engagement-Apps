@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 5.3: laboratório avançado do Dynamics 365 Project Operations'
     module: 'Módulo 5: Aprender os princípios básicos do Dynamics 365 Project Operations'

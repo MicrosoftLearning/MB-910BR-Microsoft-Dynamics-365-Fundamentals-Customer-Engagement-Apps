@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: 'Laboratório 1.1: Validar o ambiente de laboratório'
     module: 'Módulo 1: Aprender os princípios básicos do Dynamics 365 Marketing'
@@ -34,7 +34,7 @@ Exercício 1 – Acesse o aplicativo Dynamics 365
 
 ### Tarefa 2 – Acesse o aplicativo Dynamics 365
 
-1.  Expanda o Inicializador do Aplicativo no canto superior esquerdo da tela, bem à esquerda do **centro de administração do Power Platform. Selecione Dynamics 365 **Marketing** para iniciar o aplicativo.
+1.  Expanda o Inicializador do Aplicativo no canto superior esquerdo da tela, bem à esquerda do **centro de administração do Power Platform. Selecione Dynamics 365 Marketing** para iniciar o aplicativo.
 
 2.  Explore o painel de navegação do lado esquerdo. O botão na parte inferior do painel permite mudar de área. No momento, estamos na área de **Marketing**. 
 
