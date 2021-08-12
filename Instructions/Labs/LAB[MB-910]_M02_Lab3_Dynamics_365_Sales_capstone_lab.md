@@ -4,42 +4,42 @@ lab:
     module: 'Módulo 2: Aprenda os conceitos básicos do Dynamics 365 for Sales'
 ---
 
-Módulo 2: Aprenda os conceitos básicos do Dynamics 365 for Sales
+Módulo 2: Aprender os princípios básicos do Dynamics 365 Sales
 ========================
 
 ## Laboratório prático 2.3 - Laboratório Capstone do Dynamics 365 for Sales
 
 ## Cenário do laboratório
 
-A ABC Company é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de incêndio e umidade, serviços de monitoramento etc. 
+A empresa ABC é especializada na fabricação, venda, instalação e manutenção de equipamentos de segurança. Seus produtos incluem câmeras de segurança internas e externas, sensores de umidade e incêndio, serviços de monitoramento e muito mais. 
 
-A ABC Company usa aplicativos do Dynamics 365 para interagir com todos os clientes em diversas áreas da organização, desde vendas até manutenção. 
+A empresa ABC usa os aplicativos do Dynamics 365 para interagir com todos os clientes em diferentes áreas da organização, das vendas aos serviços. 
 
-**Vendas e Marketing**
+**Vendas e marketing**
 
-A ABC Company usa campanhas de marketing segmentadas para anunciar produtos e serviços diretamente a seus clientes residenciais. Os clientes são segmentados em termos de cidade e outros fatores. Os materiais de marketing são enviados por email e direcionados conforme as interações com os emails. 
+A empresa ABC comercializa para seus clientes residenciais diretamente por meio de campanhas de marketing direcionadas. Os clientes são segmentados de acordo com suas cidades e outros fatores. Os materiais de marketing são enviados por email e, com base na interação com o email, são orientados de maneira adequada. 
 
-Embora alguns produtos menores sejam vendidos por varejistas, a maioria é vendida diretamente aos clientes por equipes de vendas internas.
+Embora alguns dos produtos menores sejam vendidos por meio de varejistas, a maioria dos produtos é vendida diretamente aos consumidores pela equipe interna de vendas.
 
-Internamente, o foco da empresa é em duas áreas principais: 
+Internamente, eles se concentram em duas áreas principais: 
 
-- **Clientes residenciais:** Clientes residenciais buscam geralmente componentes individuais ou compram uma solução residencial completa. Esses ciclos de vendas são geralmente mais curtos e provêm de redes sociais, sites, indicações ou de contato direto com o prospecto. Como os clientes residenciais focam mais em produtos específicos ou instalações menores, os ciclos de vendas geralmente duram poucos dias ou semanas. 
+- **Clientes residenciais:** Os clientes residenciais geralmente procuram componentes individuais ou uma solução para a casa inteira. Esses ciclos de vendas são normalmente mais curtos e se originam de mídias sociais, sites, referências ou contato direto com o cliente potencial. Como os clientes residenciais geralmente estão mais focados em produtos específicos ou instalações menores, os ciclos de vendas normalmente duram alguns dias ou semanas. 
 
-- **Clientes empresariais:** Os vendedores empresariais focam em clientes com necessidades mais específicas e soluções comerciais personalizadas. As vendas empresariais geralmente abrangem várias localizações com comunicação interligada e exigem vários recursos para conclusão do projeto. Esses ciclos de vendas são geralmente mais longos e têm muito mais peças móveis. 
+- **Clientes empresariais:** Os vendedores empresariais se concentram nos clientes que precisam de soluções de negócios mais especializadas e sob medida. As vendas corporativas geralmente se estendem por várias localizações com comunicação vinculada e, muitas vezes, requerem vários recursos para concluir o projeto. Esses ciclos de vendas costumam ser mais longos e têm muito mais peças móveis. 
 
-É importante que todos os vendedores da ABC Company tenham as ferramentas, os recursos e as orientações necessárias para vender aos clientes, independentemente da área de foco. 
+É importante que todos os vendedores da empresa ABC tenham as ferramentas, os recursos e a orientação necessários, seja qual for a área de foco ao vender para os clientes. 
 
-**Instalação de sistema:**
+**Instalação do sistema:**
 
-O processo de instalação para equipamentos de segurança adquiridos varia de acordo com o tipo de cliente que os comprou. 
+O processo de instalação do equipamento de segurança adquirido varia de acordo com o tipo de cliente para quem foi vendido. 
 
-- **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a realização de uma venda, a empresa cria uma ordem de serviço e designa e agenda um técnico qualificado para fazer a instalação. 
+- **Clientes residenciais:** Como as instalações residenciais geralmente levam menos de um dia, elas são feitas por funcionários internos. Após a efetivação da venda, uma ordem de serviço é criada e um técnico qualificado é identificado e agendado para realizar a instalação. 
 
-- **Clientes empresariais:** Implantações empresariais podem levar meses e exigem um gerente de projetos para supervisionar as operações diárias. Isso inclui criar planos de projeto, definir equipes de projeto e programar recursos. 
+- **Clientes empresariais:** As implantações corporativas podem levar meses e exigem um gerente de projeto para supervisionar as operações do dia a dia. Isso inclui a criação de planos de projeto, a definição de equipes de projeto e o agendamento de recursos. 
 
-**Atendimento e suporte:**
+**Serviço e suporte:**
 
-Após a instalação dos sistemas, a ABC Company presta suporte de pós-venda. Se um cliente tiver algum problema, ele poderá contatar o suporte ao cliente. Um agente tentará ajudá-lo remotamente para resolver o problema. Se não for possível resolvê-lo, o agente de suporte criará uma ordem de serviço do problema aos cuidados de um técnico de campo qualificado para agendamento e resolução.  
+Assim que os sistemas são instalados, a empresa ABC fornece suporte pós-venda. Se um cliente tiver um problema, ele pode entrar em contato com o suporte ao cliente. Um agente tentará trabalhar com o cliente remotamente para resolver o problema. Se o problema não puder ser resolvido remotamente, o agente de suporte pode escalar o problema para uma ordem de serviço que será agendada e trabalhada por um técnico de campo qualificado.  
 
 ## Objetivos
 
@@ -51,7 +51,7 @@ Depois de concluir o laboratório, você terá feito isto:
 
 - Registrar um cliente potencial no Dynamics 365 for Sales
 
-- Qualificar e converter um cliente potencial em uma oportunidade de vendas.
+- Qualificar e converter um cliente potencial em oportunidade de vendas.
 
 - Gerenciar atividades diárias associadas a uma oportunidade. 
 
@@ -70,19 +70,19 @@ Depois de concluir o laboratório, você terá feito isto:
 ## Exercício 1: Crie e qualifique um cliente potencial no Dynamics 365 for Sales
 
 
-### Tarefa 1: Crie um novo cliente potencial
+### Tarefa 1: Crie um novo Cliente Potencial
 
-1. Se necessário, abra um navegador Privado e acesse [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. Se necessário, abra um navegador InPrivate e navegue até [Https://home.Dynamics.com](https://home.dynamics.com/) 
 
-2. Quando solicitado, faça login com as credenciais de usuário que seu instrutor forneceu. 
+2. Quando solicitado, faça login com as credenciais do usuário fornecidas a você pelo instrutor. 
 
 3. Na lista de aplicações exibidas, selecione **Hub de Vendas.**
 
 4. Use a área de navegação à esquerda da tela e selecione **Clientes Potenciais**. 
 
-5. Para exibir todos os clientes potenciais que existem no sistema, clique na seta para baixo ao lado de **Meus Clientes Potenciais em Aberto**. No menu exibido, selecione **Clientes Potenciais Ativos**. 
+5. Para exibir todos os clientes potenciais que existem no sistema, selecione a seta para baixo ao lado de **Meus Clientes Potenciais em Aberto**. No menu exibido, selecione **Clientes Potenciais Ativos**. 
 
-6. Para voltar à lista de clientes potenciais, clique na seta para baixo ao lado de Clientes Potenciais Ativos e, no menu exibido, selecione **Meus Clientes Potenciais em Aberto**. 
+6. Para voltar à lista de clientes potenciais, selecione a seta para baixo ao lado de Clientes Potenciais Ativos e, no menu exibido, selecione **Meus Clientes Potenciais em Aberto**. 
 
 7. Em seguida, crie um novo cliente potencial em nome de Piper Smith. Na exibição **Meus Clientes Potenciais em Aberto**, selecione o botão **Novo** na barra de comandos.
 
@@ -98,19 +98,12 @@ Depois de concluir o laboratório, você terá feito isto:
 
 	- **Email:** piper@sample.com
 
-	- **Endereço 1:** 1989 191<sup data-htmlnode="">st</sup> Ave N
-
-	- **Cidade:** Seattle
-
-	- **Estado/Província:** WA
-
-	- **CEP/Código postal:** 98001 
 
 9. Selecione o botão **Salvar** na barra de comandos para salvar o novo cliente potencial e deixá-lo em aberto.
 
-10. Observe o fluxo de processo comercial **Cliente Potencial para Oportunidade** na parte superior do registro. Clique no **Estágio Qualificar** para selecioná-lo. Preencha o estágio da seguinte maneira:
+10. Observe o fluxo de processo comercial **Cliente Potencial para Oportunidade** na parte superior do registro. Selecione o **Estágio Qualificar**. Preencha o estágio da seguinte maneira:
 
-	- **Período de Compra:** Este trimestre
+	- **Período de Compra:** este trimestre
 
 	- **Orçamento Estimado:** 10000 
 
@@ -118,13 +111,13 @@ Depois de concluir o laboratório, você terá feito isto:
 
 	- **Identificar Tomador de Decisões:** Concluído
 
-11. Clique em **X** na janela do estágio para fechá-la. 
+11. Selecione o **X** na janela do estágio para fechá-la. 
 
-12. Acesse a **Linha do tempo** de registro no meio da tela e clique no **Ícone do Sinal de Mais** para incluir uma nova atividade. 
+12. Acesse a **Linha do tempo** de registro no meio da tela e selecione o **Ícone do Sinal de Mais** para incluir uma nova atividade. 
 
-13. No menu exibido, selecione **Chamada Telefônica**.
+13. No menu exibido, selecione **Telefonema**.
 
-14. Na tela Criar rápido: Chamada Telefônica, preencha os dados da seguinte maneira:
+14. Na tela Criação Rápida da Ligação Telefônica, complete a ligação telefônica da seguinte maneira:
 
 	- **Assunto:** Procurando equipamentos de segurança residencial
 
@@ -134,7 +127,7 @@ Depois de concluir o laboratório, você terá feito isto:
 
 	- **Descrição:** Após alguns incidentes em seu bairro, ela resolveu adquirir um sistema de segurança. 
 
-15. Clique no botão **Salvar e Fechar**.
+15. Selecione o botão **Salvar e Fechar**.
 
 16. Observe que a atividade **Procurando equipamentos de segurança residencial** agora está exibida na **Linha do Tempo** de registro. Posicione o cursor sobre a atividade e selecione a atividade de fechamento **Ícone de Marcação** para marcar a chamada telefônica como concluída. 
 
@@ -146,17 +139,17 @@ Depois de concluir o laboratório, você terá feito isto:
 
  
 
-### Tarefa 2: Qualifique o cliente potencial como uma oportunidade
+### Tarefa 2: Qualifique o cliente potencial como oportunidade
 
 Após visitar Piper, você identificou que há interesse suficiente da parte dela para justificar o avanço no processo e que temos produtos e serviços que a beneficiariam. Em seguida, você qualifica o registro de cliente potencial. Isso cria um registro de Oportunidade relacionado e avança para o próximo estágio do processo de vendas Cliente Potencial para Oportunidade. 
 
-1. Nas **Barra de Comandos**, selecione o botão **Qualificar**. 
+1. Na **Barra de Comandos**, selecione o botão **Qualificar**. 
 
-2. Depois de qualificar o cliente potencial, o sistema cria um novo registro de Oportunidade, e o processo comercial avança para o estágio **Desenvolver**. Selecione o estágio **Qualificar** para exibir o registro de cliente potencial original. 
+2. Depois de qualificar o cliente potencial, o sistema cria um novo registro de Oportunidade e o processo comercial avança para o estágio **Desenvolver**. Selecione o estágio **Qualificar** para exibir o registro de cliente potencial original. 
 
-3. Selecione o estágio **Desenvolver** para retornar à oportunidade.
+3. Selecione o estágio **Qualificar** para voltar à oportunidade.
 
-4. Clique no botão **Salvar e Fechar** para fechar o registro de Oportunidade criado. 
+4. Selecione o botão **Salvar e Fechar** para fechar o registro de Cliente Potencial que foi criado. 
 
  
 
@@ -170,17 +163,17 @@ Agora que qualificamos com êxito o cliente potencial como uma oportunidade, é 
 
 1. Use a área de navegação à esquerda da tela e selecione **Oportunidades**. 
 
-2. Clique na seta de lista suspensa ao lado da exibição **Minhas Oportunidades em Aberto**. No menu exibido, selecione **Oportunidades em Aberto**.
+2. Selecione a seta de lista suspensa ao lado da exibição **Minhas Oportunidades em Aberto**. No menu exibido, selecione **Todas as Oportunidades**.
 
-3. Na barra de comandos, selecione Mostrar Gráfico. Observe que o gráfico Principais Clientes é exibido com base na tabela Oportunidade. 
+3. Na Barra de Comandos, selecione Mostrar Gráfico. Observe que o gráfico **Principais Clientes** é exibido com base na tabela Oportunidade. 
 
-4. Clique na seta de lista suspensa ao lado de Principais Clientes. No menu exibido, selecione **Pipeline de Vendas**.
+4. Selecione a seta de lista suspensa ao lado de **Principais Clientes**. No menu exibido, selecione **Pipeline de Vendas**.
 
 5. Selecione a parte Qualificar do Funil. Observe que a lista de Oportunidades muda para exibir aquelas que estão no estágio de qualificação. 
 
-6. Clique em qualquer lugar do espaço em branco do gráfico para exibir novamente todas as oportunidades em aberto. 
+6. Selecione qualquer lugar do espaço em branco do gráfico para exibir todas as oportunidades em aberto de novo. 
 
-7. Clique na seta de lista suspensa ao lado da exibição **Oportunidades em Aberto**. No menu exibido, selecione **Minhas Oportunidades em Aberto**. O item **Procurando Equipamentos de Segurança - Suas Iniciais** provavelmente será a única ocorrência, e o gráfico deve refletir isso. 
+7. Selecione a seta de lista suspensa ao lado da exibição **Oportunidades em Aberto**. No menu exibido, selecione **Minhas Oportunidades em Aberto**. O item **Procurando Equipamentos de Segurança - Suas Iniciais** provavelmente será a única ocorrência, e o gráfico deve refletir isso. 
 
 8. Na **Barra de Comandos**, selecione o botão **Ocultar Gráfico**. 
 
@@ -188,17 +181,17 @@ Agora que qualificamos com êxito o cliente potencial como uma oportunidade, é 
 
 10. No cabeçalho da oportunidade **Procurando Equipamentos de Segurança - Suas Iniciais** na parte superior do registro, selecione a seta para baixo ao lado do campo de proprietário. 
 
-11. Preenche da seguinte maneira:
+11. Preencha da seguinte maneira:
 
 	- **Data de Fechamento Est.:** Amanhã
 
 	- **Receita Est.:** 12.500,00
 
-12. Acesse a **Linha do tempo de Registro** no meio da tela e clique no **Ícone do Sinal de Mais** para incluir uma nova atividade. 
+12. Acesse a **Linha do tempo** de registro no meio da tela e selecione o **Ícone do Sinal de Mais** para incluir uma nova atividade. 
 
 13. No menu exibido, selecione **Compromisso**.
 
-14. Na tela **Criar Rápido: Compromisso**, preencha da seguinte maneira:
+14. No formulário **Criação Rápida: Compromisso**, preencha da seguinte maneira:
 
 	- **Assunto:** Reunião Rápida - “Suas Iniciais”
 
@@ -212,35 +205,35 @@ Agora que qualificamos com êxito o cliente potencial como uma oportunidade, é 
 
 16. No fluxo de processo comercial Cliente Potencial para Oportunidade, selecione o estágio **Desenvolver**. Observe que é necessário Identificar Partes Interessadas e Concorrentes.
 
-17. Clique no **X** na janela do estágio para fechá-la e continuar o trabalho. 
+17. Selecione o **X** na janela de estágios para fechá-la e continuar trabalhando. 
 
 18. Na subgrade **Partes Interessadas**, observe que **Piper** já está definida como parte interessada. 
 
 19. Na subgrade Equipe de Vendas, selecione a **Elipse Vertical**. No menu exibido, selecione **Nova Conexão**. 
 
-20. No campo **Pesquisar**, insira o texto **Sistema** e selecione o registro **Administrador do Sistema**. Depois de terminar, clique no botão **Adicionar**. O Administrador do Sistema deve ser exibido na equipe de vendas. Caso contrário, selecione o botão **Atualizar** na barra de comandos. 
+20. No campo **Pesquisar**, insira o texto **Sistema** e selecione o registro **Administrador do Sistema**. Depois de concluído, selecione o botão **Adicionar**. O Administrador do Sistema deve aparecer na equipe de vendas. Se não aparecer, selecione o botão **Atualizar** na barra de comandos. 
 
-21. Na subgrade Concorrentes, selecione a **Elipse Vertical**. No menu exibido, selecione **Adicionar Concorrente Atual**. 
+21. Na subgrade Concorrentes, selecione as **Reticências Verticais**. No menu exibido, selecione **Adicionar Concorrente Existente**. 
 
 22. Na tela **Registro de Busca**, selecione **Novo** e depois **Concorrentes**.
 
-23. Na tela Criar Rápido: **Concorrente**, preencha o campo **Nome** com **Coho Security - “Suas Iniciais”**.
+23. Na tela Criação Rápida: **Concorrente**, preencha o campo **Nome** com **Coho Security - “Suas Iniciais”**.
 
 24. Selecione o botão **Salvar e Fechar**.
 
-25. Confirme se o registro Coho Security recém-criado está selecionado e clique no botão **Adicionar**. 
+25. Confirme se o registro Coho Security recém-criado está selecionado e selecione o botão **Adicionar**. 
 
-26. Clique no estágio **Desenvolver** no fluxo de processo comercial **Cliente Potencial para Oportunidade** e defina as etapas **Identificar Partes Interessadas** e **Identificar Concorrentes** para **Concluído**. 
+26. Selecione o estágio **Desenvolver** no fluxo de processo corporativo **Cliente Potencial para Oportunidade** e defina as etapas **Identificar Interessados** e **Identificar Concorrentes** como **Concluído**. 
 
-27. Clique no botão **Próximo Estágio** para avançar ao estágio **Propor**.
+27. Selecione o botão **Próximo Estágio** para passar para o estágio **Propor**.
 
-28. No estágio **Propor**, marque **Identificar Equipe de Vendas** como **Concluído**.
+28. No estágio **Propor**, marque a opção **Identificar Equipe de Vendas** como **Concluído**.
 
-29. Clique no **X** no estágio Propor para fechar essa janela. 
+29. Selecione o **X** na janela do estágio Propor para fechá-la. 
 
 30. No registro de oportunidade, selecione a guia **Cotações**. 
 
-31. Na subgrade Cotações, clique no botão **Nova Cotação**.
+31. Na subgrade Cotações, selecione **Nova Cotação**.
 
  
 
@@ -252,21 +245,20 @@ Agora que qualificamos com êxito o cliente potencial como uma oportunidade, é 
 
 Agora que já tem uma cotação relacionada, você a prepara para apresentar a um cliente. Em situações normais, provavelmente incluiríamos produtos no registro de cotação antes de enviar a um cliente. Como estamos trabalhando em ambientes compartilhados, vamos pular a inclusão de linhas na cotação e passaremos para seu envio. 
 
-1. Na **Barra de Comandos**, selecione o botão **Ativar Cotação** para ativá-la. 
 
-2. É necessário selecionar uma Lista de Preços para anexar à Oportunidade.  Em **Lista de Preços** no painel esquerdo, selecione o ícone Procurar e depois na opção **Lista de Preços Padrão**.
+1. É necessário selecionar uma Lista de Preços para anexar à Oportunidade.  Em **Lista de Preços**, no painel esquerdo, selecione o ícone Procurar e depois **Office 365 USA (sample)** na lista de resultados. Na **Barra de Comandos**, selecione o botão **Ativar Cotação** para ativá-la. 
 
-3. Agora que criamos a cotação, vamos atualizar o registro de oportunidade para refletir os novos dados. No registro de Cotação, selecione **Procurando Equipamentos de Segurança** – **“Seu Nome”** no campo **Oportunidade** na seção **Informações de Vendas**. O registro de oportunidade deve abrir na tela. 
+2. Agora que criamos a cotação, vamos atualizar o registro de oportunidade para refletir os novos dados. No registro de Cotação, selecione **Procurando Equipamentos de Segurança** – **“Seu Nome”** no campo **Oportunidade** na seção **Informações de Vendas**. O registro de oportunidade deve abrir na tela. 
 
 3. No registro de oportunidade, selecione o estágio **Propor**. 
 
-4. Marque **Desenvolver Proposta**, **Concluir Revisão Interna**, e **Apresentar Proposta** como **Concluído** e clique no botão **Próximo Estágio** para avançar ao estágio **Fechar**. 
+4. Marque **Desenvolver Proposta**, **Concluir Revisão Interna** e **Apresentar Proposta** como **Concluído** e selecione o botão **Próximo Estágio** para avançar ao estágio **Fechar**. 
 
 5. No estágio **Fechar**, marque **Concluir Proposta Final**, **Apresentar Proposta Final**, **Enviar Agradecimento** e **Arquivar Avaliação** como **Concluído**. 
 
 6. Defina **Confirmar Data de Decisão** para **Data de hoje**. 
 
-7. Clique no botão **Finalizar**. 
+7. Selecione o botão **Concluir**. 
 
 8. Selecione o **X** na janela do estágio Fechar para fechá-la. 
 
@@ -286,7 +278,7 @@ Agora que já tem uma cotação relacionada, você a prepara para apresentar a u
 
 	- **Calcular Receita Real das Cotações:** Não
 
-	- **Receita Atual:** $ 12.500
+	- **Receita Atual:** $ 12.500
 
 13. Selecione o botão **OK** 
 
@@ -312,4 +304,4 @@ Agora que criamos um pedido de vendas, vamos fechar o pedido e gerar a fatura. E
 
 4. Na **Barra de Comandos** do pedido, selecione o botão **Criar Fatura**. 
 
-5. Depois de abrir o registro de Fatura, selecione **Fatura Paga**.
+5. Na **Barra de Comandos**, selecione o botão **Fatura Paga**. Selecione OK.

@@ -1,7 +1,7 @@
 ---
 demo:
     title: 'Demonstração: Gestão de ativos e Connected Field Service'
-    module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'
+    module: 'Módulo 4: Aprender os princípios básicos do Dynamics 365 Customer Service'
 ---
 
 # Demonstração: Gestão de ativos e Connected Field Service
@@ -10,7 +10,7 @@ demo:
 
 Os dispositivos IoT estão se tornando uma parte importante da vida cotidiana. 
 
-1. Os clientes geralmente têm ativos físicos que requerem trabalho e manutenção. De forma geral, esses ativos são instalados inicialmente e têm contratos de manutenção preventiva abertos para eles. O Dynamics 365 Field Service inclui a funcionalidade de gestão de ativos que funciona em conjunto com a funcionalidade Connected Field Service 
+1. Os clientes geralmente têm ativos físicos que requerem trabalho e manutenção.  Se o ativo for um dispositivo conectado, é possível incluir sensores IoT capazes de comunicar informações.  No geral, os ativos são inicialmente instalados como ordem de serviço.  Após instalados, é possível providenciar contratos de manutenção preventiva, oferecendo um cronograma de manutenção para manter o ativo em funcionamento.  O Dynamics 365 Field Service inclui uma funcionalidade de gerenciamento de ativos que atua lado a lado com a funcionalidade do Connected Field Service.    
 
 	- Crie um ativo do cliente
 
@@ -32,7 +32,7 @@ Os dispositivos IoT estão se tornando uma parte importante da vida cotidiana.
 
 		- Use os recursos visuais fornecidos para ajudar os alunos a visualizar como os eventos são aproveitados. 
 
-		- Usando um dispositivo simulado, acione um evento como uma Lixeira de IoT cheia e precisando ser esvaziada. 
+		- Usando um dispositivo simulado, acione um evento como uma Lixeira de IoT cheia precisando ser esvaziada. 
 
 		- Passe pelo que acontece quando o evento é acionado. 
 
@@ -66,6 +66,6 @@ Os dispositivos IoT estão se tornando uma parte importante da vida cotidiana.
 
 - Passe por uma Ordem de Serviço sendo gerada automaticamente, com base na substituição de um sensor. Acione a criação automática de casos com base na substituição recomendada do sensor. 
 
-	1. Mostrar a Ordem de Serviço criada 
+	1. Mostre a Ordem de Serviço criada 
 
 	2. Mostre como a Ordem de Serviço foi agendada com RSO

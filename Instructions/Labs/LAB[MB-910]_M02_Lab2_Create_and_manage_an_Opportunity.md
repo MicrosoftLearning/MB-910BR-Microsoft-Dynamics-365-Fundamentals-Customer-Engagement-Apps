@@ -4,7 +4,7 @@ lab:
     module: 'Módulo 2: Aprenda os conceitos básicos do Dynamics 365 for Sales'
 ---
 
-Módulo 2: Aprenda os conceitos básicos do Dynamics 365 for Sales
+Módulo 2: Aprender os princípios básicos do Dynamics 365 Sales
 ========================
 
 ## Laboratório prático 2.2 - Crie e gerencie uma oportunidade no Dynamics 365 for Sales 
@@ -20,7 +20,7 @@ Neste exercício, registre manualmente uma oportunidade de vendas para um client
 
 ## Instruções
 
-Neste exercício, familiarize-se com o acesso a diversos aplicativos de interação do Dynamics 365 Customer por meio da tela inicial do Dynamics 365. 
+Neste exercício, vamos nos familiarizar com o acesso a diferentes aplicativos de envolvimento com o cliente do Dynamics 365 usando a tela Página Inicial do Dynamics 365. 
 
 1. Se não estiver aberto ainda, abra o aplicativo **Hub de Vendas do Dynamics 365**. 
 
@@ -32,9 +32,9 @@ Neste exercício, familiarize-se com o acesso a diversos aplicativos de interaç
 
 	- **Tópico:** Quer atualizar seus equipamentos atuais - Suas iniciais
 
-	- **Conta:** Adventure Works
+	- **Contato:** Jay Klein
 
-	- **Contato:** Jim Glynn
+	- **Conta:** Northwind Traders
 
 	- **Período de Compra:** Este trimestre
 
@@ -44,7 +44,7 @@ Neste exercício, familiarize-se com o acesso a diversos aplicativos de interaç
 
 5. No **Cabeçalho da Nova Oportunidade** na parte superior do registro, selecione a seta para baixo ao lado do campo de proprietário. 
 
-6. Preenche da seguinte maneira:
+6. Preencha da seguinte maneira:
 
 	- **Data de Fechamento Est.:** Dois dias a partir de hoje
 
@@ -68,9 +68,9 @@ Neste exercício, familiarize-se com o acesso a diversos aplicativos de interaç
 
 13. Na subgrade Equipe de Vendas, selecione a **Elipse Vertical**. No menu exibido, selecione **Nova Conexão**. 
 
-14. Pesquise seu registro de usuário e selecione-o. Depois de terminar, clique no botão **Adicionar**. 
+14. Pesquise seu registro de usuário e selecione-o. Depois de concluído, selecione o botão **Adicionar**. 
 
-15. Na subgrade Concorrentes, selecione a **Elipse Vertical**. No menu exibido, selecione **Adicionar Concorrente Atual**. 
+15. Na subgrade Concorrentes, selecione as **Reticências Verticais**. No menu exibido, selecione **Adicionar Concorrente Existente**. 
 
 16. Na tela **Registro de Busca**, selecione **Novo** e depois **Concorrentes**.
 
@@ -78,20 +78,20 @@ Neste exercício, familiarize-se com o acesso a diversos aplicativos de interaç
 
 18. Selecione o botão **Salvar e Fechar**.
 
-19. É necessário selecionar **Coho Technologies** na janela de registro de busca. Clique no botão **Adicionar** para finalizar a inclusão do concorrente. 
+19. É necessário selecionar **Coho Technologies** na janela de registro de busca. Selecione o botão **Adicionar** para finalizar a inclusão do concorrente. 
 
-20. Clique no estágio **Desenvolver** no fluxo de processo comercial **Cliente Potencial para Oportunidade** e defina as etapas **Identificar Partes Interessadas** e **Identificar Concorrentes** para **Concluído**. 
+20. Selecione o estágio **Desenvolver** no fluxo de processo corporativo **Cliente Potencial para Oportunidade** e defina as etapas **Identificar Interessados** e **Identificar Concorrentes** como **Concluído**. 
 
-21. Clique no botão **Próximo Estágio** para avançar ao estágio **Propor**.
+21. Selecione o botão **Próximo Estágio** para passar para o estágio **Propor**.
 
-22. No estágio **Propor**, marque as quatro etapas como **Concluído** e clique no botão **Próximo Estágio** para avançar ao estágio **Fechar**. 
+22. No estágio **Propor**, marque as quatro etapas como **Concluído** e selecione **Próximo Estágio** para avançar ao estágio **Fechar**. 
 
 23. No estágio **Fechar**, marque **Concluir Proposta Final**, **Apresentar Proposta Final**, **Enviar Agradecimento** e **Arquivar Avaliação** como **Concluído**. 
 
 24. Defina **Confirmar Data de Decisão** para **Data de hoje**. 
 
-25. Clique no botão **Finalizar**. 
+25. Selecione o botão **Finalizar**. 
 
 26. Agora que você concluiu o processo comercial, é necessário fechar a oportunidade. Na **Barra de Comandos** da oportunidade, selecione o botão **Fechar como Ganho**. 
 
-27. Na tela **Fechar Oportunidade**, clique no botão **OK** para concluir o fechamento do registro de oportunidade. 
+27. Na tela **Fechar Oportunidade**, selecione o botão **OK** para concluir o fechamento do registro de oportunidade. 

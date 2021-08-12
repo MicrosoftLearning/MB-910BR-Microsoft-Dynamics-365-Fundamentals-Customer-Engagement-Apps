@@ -4,7 +4,7 @@ lab:
     module: 'Módulo 4: Aprenda o básico do Dynamics 365 Field Service'
 ---
 
-Módulo 4: Aprenda o básico do Dynamics 365 Field Service
+Módulo 4: Aprender os princípios básicos do Dynamics 365 Field Service
 ========================
 
 ## Pratique o Laboratório 4.1 - Criando ordens de serviço no Dynamics 365 Field Service
@@ -21,17 +21,19 @@ Módulo 4: Aprenda o básico do Dynamics 365 Field Service
 
 3. Preencha os detalhes da ordem de serviço da seguinte forma:
 
-	- **Conta de Serviço:** Adventure Works
+	- **Conta de Serviço:** Adventure Works Cycles
 
-	- **Tipo de Ordem de Serviço**: Serviço
+	- **Tipo de Ordem de Serviço**: Serviço (Criar novo)
 
-	- **Lista de Preços:** Lista de preços padrão
+	- **Lista de Preços:** CRM Service USA (sample)
 
 	- **Tributável:** Não
 
+4. Salve a ordem de serviço.
+
 4. Selecione a guia **Configurações**.
 
-5. Defina o campo **Território de Serviço** como **WA**.
+5. Defina o campo **Território de Serviço** como **WA**. (Criar novo)
 
 6. Em **Preferências**, configure as preferências de tempo conforme mostrado a seguir:
 
